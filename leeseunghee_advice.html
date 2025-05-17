@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>롯데 자이언츠</title>
+   <link rel="icon" type="image/x-icon" href="https://www.giantsclub.com/_Img/Logo/favicon_16x16.ico">
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #ffffff;
+      color: #041E42;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #041E42;
+      color: white;
+      padding: 1em;
+      text-align: center;
+    }
+    nav {
+      text-align: right;
+      background-color: #C41536; 
+      padding: 0.5em 2em;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin-left: 20px;
+      font-weight: bold;
+    }
+    section {
+      padding: 2em;
+    }
+    h2 {
+      border-bottom: 2px solid #041E42;
+      padding-bottom: 0.5em;
+    }
+    .mascot img, .players img {
+      max-width: 200px;
+      display: block;
+      margin-top: 1em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+     <img src="https://www.giantsclub.com/_Img/Logo/favicon_16x16.ico" alt="롯데자이언츠 로고">
+    <h1>LOTTE GIANTS</h1>
+    <h3>투혼투지, 승리를 위한 전진</h3>
+    
+  </header>
+  <nav>
+    <a href="#home">홈</a>
+    <a href="#history">역사</a>
+    <a href="#mascot">마스코트</a>
+    <a href="#players">영구결번</a>
+  </nav>
+  <section id="home">
+    <h2>팀 소개</h2>
+    <p>롯데 자이언츠는 부산을 연고로 하는 KBO 소속 프로야구팀으로, 1982년 창단 이래 뜨거운 팬층과 전통을 자랑한다. 홈 구장은 사직야구장이며, 상징색은 붉은색과 군청색이다.</p>
+  </section>
+  <section id="history">
+    <h2>역사</h2>
+    <p>1982년 창단 이후 한국시리즈 우승 2회(1984, 1992년)를 기록했으며, 끊임없는 도전과 개혁을 통해 팬들의 사랑을 받아왔다.</p>
+    <div class="image-container">
+                <img src="https://www.giantsclub.com/html/_Img/intro/img_cntbox2.jpg" alt="롯데자이언츠 소개 이미지">
+            </div>
+  </section>
+  <section id="mascot" class="mascot">
+    <h2>마스코트</h2>
+    <p>롯데 자이언츠의 마스코트는 '누리','아라','윈지'로 갈매기들이다. 다양한 이벤트에서 팬들과 소통하며 사랑받고 있다.</p>
+  </section>
+  <section id="players" class="players">
+    <h2>영구 결번</h2>
+    <img src ="https://i.namu.wiki/i/9_ppU75W1BnVu3fBybAMjobI4tpFEXNIPW124j7NGFS1r2w1qU36oFHV6sjrutKXWC024i2wGe3rLJ2ms7CLTw.svg" alt="최동원">
+    <img src ="https://i.namu.wiki/i/WZEmZJ0BTTrPRAlyQKkx5TK5Eyrb_suxfS5QHJ9d15SdVQs2n_0ock299195AkNZICJW5Vw0uwCRC29CKWh8Rg.svg" alt= "이대호">
+    <p>
+    롯데 자이언츠는 타 구단에 비해 상대적으로 영구 결번이 박해서 원년 구단임에도 창단 후 무려 30년간 영구결번이 없었다.
+
+롯데 프런트는 구단 역대 최고의 레전드이자 KBO 리그를 대표하는 레전드인 최동원의 영구 결번 조차 주저하는 모습을 보였다. 역대 롯데를 거쳐간 투수 중 최동원을 뛰어넘을 만한 선수가 없었기에 수많은 팬들이 최동원의 등번호인 11번을 영구 결번으로 지정하라고 그렇게 염원했지만 프런트는 팬들의 염원에 대해 들은 척도 하지 않았다. 그리고 2011년 최동원이 세상을 떠난 후에야 등떠밀리듯 영구 결번을 지정했을 정도였다.
+
+한국야구 100여년 역사에서 손꼽힐 정도로 투타의 기둥 역할을 했던 최동원의 11번과 이대호의 10번이 영구 결번으로 지정되어 있다. 영구 결번 기념 조형물은 사직 야구장 전광판 밑 양 기둥에 설치되어있다. 좌익수 쪽 기둥에 최동원의 11번, 우익수 쪽 기둥에 이대호의 10번 조형물이 붙어 있다.
+    </p>
+    <ul>
+      <li>No.11 최동원 - 1984 첫 한국시리즈 우승의 주역. 프로구단 전환 후 30년만의 첫 영구 결번</li>
+      <li>No.10 이대호 - 조선의 4번 타자. 역대 한국인 야수 중에서 한.미.일.에서 잇다라 활약한 최초의 선수이자 대한민국 야구 국가대표팀 부동의 4번 타자로 혁혁한 공적을 쌓아 올린 레전드</li>
+    </ul>
+  </section>
+</body>
+</html>
